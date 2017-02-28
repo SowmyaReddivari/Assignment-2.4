@@ -1,0 +1,19 @@
+1. Explain the importance of Name node in Hadoop 
+
+NameNode:
+
+      - NameNode acts like a Master node.
+
+      - Name nodes are used to save Meta Data about files and direrctory.
+
+      - They contain information like which bocks are stored in which datanode.
+
+      - It is single point of failure in the HDFS.
+
+      - It manages the space of file system.
+
+      - It allows clients to access the files in directory.
+
+      - It performs some operations like renaming,closing and opening files.
+
+      - It is a commodity hardware and runs on commodity hardware.
